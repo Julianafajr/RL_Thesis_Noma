@@ -1,0 +1,11 @@
+opencv-python
+pydantic
+ipython-autotime
+natsort
+albumentations
+seaborn
+pydot==3.0.1
+rasterio
+scikit-image
+tensorflow==2.15
+tf-keras==2.15
